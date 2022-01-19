@@ -1,0 +1,5 @@
+B1: Kích hoạt môi trường min_ds-env
+	conda activate min_ds-env
+B2: Đi tới đường dẫn thư mục chứa đồ án và mở jupyter notebook lên
+	jupyter notebook
+B3: Nếu dùng WSL trên Windows thì cần copy url và paste vào web browser (có dạng http://localhost:8888 ...)
