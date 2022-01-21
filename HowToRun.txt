@@ -1,5 +1,5 @@
-B1: Kích hoạt môi trường min_ds-env
-	conda activate min_ds-env
-B2: Đi tới đường dẫn thư mục chứa đồ án và mở jupyter notebook lên
-	jupyter notebook
-B3: Nếu dùng WSL trên Windows thì cần copy url và paste vào web browser (có dạng http://localhost:8888 ...)
+B1: Kích hoạt môi trường min_ds-env bằng câu lệnh 'conda activate min_ds-env'
+B2: Đi tới đường dẫn thư mục chứa đồ án bằng câu lệnh 'cd <path>'
+B3: Mở jupyter notebook lên bằng câu lệnh 'jupyter notebook'
+B4: Nếu dùng WSL trên Windows thì cần copy url và paste vào web browser (có dạng http://localhost:8888 ...)
+B5: Nhấp vào mục Kernel chọn Rester & Run All để chạy
